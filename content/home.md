@@ -1,5 +1,5 @@
 ---
-title: Awesome Doc
+title: Awesome Document
 date: 2022-06-21T11:19:42.446Z
 cats:
   - description: Maru is a Scottish Fold from Japan, and he loves boxes.
