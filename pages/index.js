@@ -7,7 +7,9 @@ export default function Home() {
   let {title, cats} = attributes;
   return (
     <div className={styles.container}>
-      <Head></Head>
+      <Head>
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+      </Head>
 
       <article>
         <h1>hello {title}</h1>
