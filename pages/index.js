@@ -10,7 +10,7 @@ export default function Home() {
       <Head></Head>
 
       <article>
-        <h1>{title}</h1>
+        <h1>hello {title}</h1>
         <HomeContent />
         <ul>
           {cats.map((cat, k) => (
